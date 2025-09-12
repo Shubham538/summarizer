@@ -1,0 +1,1149 @@
+Retention of Critical Knowledge
+- Beth Collier – Environmental
+Specialist: Air, Water and Waste
+- GSUSI-PTS-S
+Retention of Critical Knowledge
+Report
+Shell USA, Inc.
+SRN-010382
+September 2024
+Author(s): Kosiara, Mark SHLUSA-HRL/LK; Collier, Beth B GSUSI-PTS/S
+© Copyright vested in Royal Dutch/Shell Group of Companies
+Restricted
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Executive Summary
+The ROCK exercise for Beth Collier was undertaken because Ms. Collier was retiring from
+Shell after 21 years of Shell service. This ROCK was intended to supplement the handover
+work that had already been done between Ms. Collier, her team lead, Rob Smith and the
+team member taking her position, Maurice Pinder. Given Ms. Collier’s extensive
+experience in managing the Environmental categories of air, water, and waste at the Shell
+Technology Center Houston (STCH), multiple items that have been captured in this report
+will be valuable to those working in this space in the future.
+The initial ROCK interview was held on May 21st, 2024. Unlike other ROCK reports, this
+ROCK intended to capture an inventory of the various regulatory jurisdiction and
+reporting requirements for the key Environmental media (Air, water, and waste) that were
+managed by Ms. Collier as well as any historic Environmental information that would not
+necessarily be common knowledge at the site due to Ms. Coller’s tenure in this role. In
+addition to this, the report also contains the more classic goal of capturing: key lessons
+learned, best practices, risks/challenges for the future, and
+recommendations/opportunities for improvement in the various topics discussed during the
+interview. This report resulted in the latter items being captured during the ROCK
+interview:
+Category of Finding Number
+Best Practice (Desire to Replicate) 3
+Lessons Learned (No Specific Desire to 2
+Replicate)
+Risks / Challenges for the Future 4
+Recommendations for the Future / Opportunities 2
+for Improvement
+These above items are detailed in the main text of this report in line with the interview
+agenda, but they are also summarized by category in Section 9-12 of this report. For your
+information, you can see the detailed agenda for the ROCK interview in the agenda flow
+diagram embedded below.
+Final Agenda.jpg
+Internal - SRN-010382 2
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Contents
+Executive Summary .............................................................................................................. 2
+1. Brief History of Time in Role and Key Roles & Responsibilities ...................................... 5
+2. Regulatory Framework (Air, Water, Waste) ................................................................. 6
+2.1. What are the applicable laws and requirements here? ............................................... 6
+2.1.1. Air ............................................................................................................................. 6
+2.1.2. Water ........................................................................................................................ 7
+2.1.3. Waste ....................................................................................................................... 11
+2.2. How does the information flow to meet the regulatory needs? ................................. 12
+2.3. Processes at STCH for compliance and permitting new sources?............................... 13
+2.4. Key Stakeholders at STCH (20+ VP-ships & Multiple Project Groups) ...................... 14
+2.4.1. Project Groups – Capital Projects, Real Estate, 3rd Party Tenants........................... 14
+2.5. Regulatory Contacts & External Contacts (Key Contacts) ......................................... 15
+3. License to Operate Success ......................................................................................... 17
+4. Site Specific Topics (Brief History & Current State of Each) ........................................ 19
+4.1. MB Tank Farm, Contamination................................................................................... 19
+4.2. Holding Ponds ............................................................................................................ 19
+4.3. Well #3 Issue, Well #1 ............................................................................................... 20
+5. LOPC Reduction Campaign ......................................................................................... 22
+6. Sustainability: Net Zero Emissions, Respect for Nature, etc. ....................................... 23
+7. Environmental Support Work (Consultation, MOCs, Project Recycling, Respect for
+Nature, Flaring Issues, Chilled Water Pump) ...................................................................... 25
+8. Personal Networks....................................................................................................... 27
+9. Best Practices ............................................................................................................... 30
+10. Lessons Learned ........................................................................................................... 32
+11. Risks / Challenges for the Future ................................................................................. 34
+12. Opportunities for Improvement / Recommendations for the Future ............................ 37
+Internal - SRN-010382 3
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+13. Key Information Sources ............................................................................................. 38
+Literature References .......................................................................................................... 39
+Bibliographic Information ................................................................................................... 40
+Internal - SRN-010382 4
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+1. Brief History of Time in Role and Key Roles &
+Responsibilities
+Ms. Collier has been at Shell for the past 21 years. At Shell Technology Center Houston
+(STCH) she has been responsible for managing the air, water, and waste scope within the
+environmental segment of HSSE.
+Key Roles & Responsibilities
+Within each of the three areas there are responsibilities for:
+ Record keeping.
+ Reporting – for example into the Texas Commission on Environmental Quality
+(TCEQ) or to Shell Group.
+ Compliance with permit and associated regulatory requirements that are linked to
+permit requirements.
+ Other general responsibilities including site operations and site project support to
+ensure alignment and compliance with all applicable Environmental and permit
+related requirements.
+Internal - SRN-010382 5
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+2. Regulatory Framework (Air, Water, Waste)
+2.1. What are the applicable laws and requirements here?
+2.1.1. Air
+Air management at the site has many associated permits, which include:
+ A Title 5 permit as well as several permits by rule (PBR). PBRs are general
+operational permits that are relatively easy to obtain if operations meet criteria.
+ The different PBR permits at STCH are associated with:
+2 boilers, which are a Standard permit for Boiler 1 and a New Source
+o
+Review (NSR) permit for Boiler 2.
+ The cogeneration unit which has a PBR permit, which is a general permit for
+turbines.
+The microgrid which has a standard permit associated with the (stationary)
+o
+natural gas generator, which is a non-emergency generator.
+ The other non-emergency generator is associated with the laboratory at MS and
+can be run at any time (under this PBR). Special requirements exist if exceeding a
+specific number of run hours.
+ Most buildings have an emergency generator, which are under restriction
+regarding their use (all are PBR permits).
+ Painting
+ Abrasive blasting
+ Welding
+ Degreasing
+ Flare
+ See list of PBRs in Environmental files.
+Air Reporting Requirements
+Title 5
+Title 5 is a federal operating air permit administered by the Texas Commission on
+Environmental Quality (TCEQ). It has a semi-annual reporting requirement associated with
+it, which is called a Deviation Report. These reports need to be signed off by the Site
+Signatory Authority, who for TCEQ purposes is considered the Regulatory Official (RO)
+for these two reports.
+Additionally, there is an annual Certification Report that also needs to be signed off.
+Air Emissions Inventory (AEI)
+There is an annual Air Emissions Inventory report, which includes an overview of all the
+Internal - SRN-010382 6
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+emissions from all laboratories, the boilers, CEB/flare, cogeneration unit etc. The site air
+fees are based on those emissions each year.
+This AEI report is the basis for several other annual reports:
+ Greenhouse Gas Emissions report – a federal report submitted through the e-GGRT
+system.
+ Annual NOx certification/Mass Emissions Cap & Trade (MECT) – STCH is allotted
+a certain volume of NOx emissions, any excess can be traded or sold.
+Management has decided to keep these emissions credits in the event that STCH
+needs to expand operations in the future, they could use these emission credit for
+these new emission sources.
+Texas Tier 2
+The Texas Tier 2 report is an inventory of maximum annual storage. It is the maximum
+inventory of a chemical on any specific day kept on site throughout the period of 1 year.
+This falls under the Community Right-to-Know Act and this information gets submitted into
+the State of Texas Environmental Electronic Reporting System (STEERS).
+There are minimum thresholds associated with the hazardous chemicals included in this
+inventory and associated report. If the threshold for a particular chemical is not met, then
+a chemical does not need to be reported.
+Aside from the TCEQ, the Tier 2 report is shared with:
+ The local fire department, and
+ The Local Emergency Planning Committee (LEPC).
+This allows those organisations to plan for a response to a possible emergency on site.
+Fire Extinguisher Training
+The Fire Extinguisher Training report is written at the start of each year. This report lets the
+city know if the site is planning to do any open burning and it is linked into the schedule for
+fire extinguisher training that the fire chief and site training coordinator maintains.
+Fees
+Finally, there is a responsibility to report any fees incurred associated with the issuing of
+any of the previously mentioned reports. A tracking document in Assurance SharePoint is
+used to monitor annual fees and associated payments.
+There are various types of fees paid for Environmental permits, applications for permits, for
+emissions released, for waste generated, for violations if they occur and decide to cite us.
+2.1.2. Water
+There are several different types of water at STCH:
+Internal - SRN-010382 7
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+ Potable water.
+ Groundwater.
+ Storm water.
+ Wastewater.
+ Steam and process water. Note: Utilities staff deal with this category of water and
+Ms. Collier has little responsibility for management of this category except for when
+it falls under the loss of primary containment reporting requirements or becomes a
+sustainability issue. There are Shell Environmental Reporting requirements for
+reporting water consumed at the site.
+If there are any reportable incidents, then the first 4 categories above need to be reported
+under the incident reporting system under the Environmental category.
+Water Reporting Requirements
+There are several agencies to which water use needs to be reported:
+ Texas Water Development Board – An annual report is required that includes a
+survey of ground and surface water use, which includes potable water received
+from the city of Houston, as well as water pumped up from the groundwater well
+on site.
+ Harris-Galveston Subsidence District (HGSD) – HGSD provide the permit for the
+groundwater well. It is well #2134, better known as Water Well 3 on the site.
+ An annual report on water pumped is required by HGSD. The City of Houston
+supplied water goes on this report as well.
+ An annual permit needs to be obtained for Well 3. An application for permit is
+submitted which starts the renewal process.
+The permit has requirements around calibration of the flow meter. STCH has two meters
+that are swapped out annually and calibrated annually. Calibration is done by third
+parties and the third party submits the calibration report to the TCEQ. While the
+requirement to calibrate is not as frequent as every year, this practice is followed to avoid
+missing this activity as has happened historically.
+STCH submits a Meter Card Report annually to let HGSD know what meter is in service, as
+required.
+ The Safe Drinking Water Act, managed by the city of Houston drives backflow
+preventor compliance at STCH. The backflow preventer protects the city from any
+possible contaminants that might come from STCH’s water system. It also protects
+each system where those preventors are installed.
+There are domestic water preventors, fire water preventors, and irrigation
+o
+preventors.
+Internal - SRN-010382 8
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+ The Brown & Root Master Plumber currently does this testing for the irrigation and
+domestic preventers. In the past, the American Fire Protection Group (AFPG) has
+also done this testing.
+ The testing of the fire backflow preventors requires special certification, thus, AFPG
+still completes these tests.
+ Once the test is completed, it is entered into the SWIFT compliance system or
+current system the City of Houston is using (SWIFT is Houston’s programme to
+manage due dates and fees). [Ms. Collier does not have direct access to the SWIFT
+system, so she is dependent upon a report produced from the SWIFT system, which
+usually lags compared to when reports have been submitted. Subsequent checking
+on SWIFT is therefore required to verify compliance with reporting requirements.]
+Potable Water Testing
+ Potable water Residual Chlorine testing and flushing is done by the SET group. The
+city should be sending the site chlorinated water, but water is treated differently at
+various city treatment locations and on occasion the site receives water with low
+chlorine residual. SET tests for both types of chlorine residual at the sample point
+where water comes into the facility. If there are issues, it can be managed. The
+chlorine residuals in the storage tank on site are monitored for correction. If issues
+are found, then the city of Houston is notified. This could also require that the
+internal water lines at the site need to be flushed out. (if the issue was detected too
+late) There is a policy in place that details the potable water procedure. It is in the
+HSSE Manual and covers everything from the regulatory levels that chlorine
+residual must meet, and it lists the flushing and testing points. (See HSSE Manual
+Potable Water Procedures.)
+ Although Ms. Collier is not directly responsible for the execution of this work, she
+does track compliance because she must manage any reporting and inspection
+activities associated with compliance to the regulations.
+ Note: Permits are posted in the STCH Assurance SharePoint site. Each media has a
+permit file.
+Storm water requirements
+There are several key components to storm water:
+ Texas Pollutant Discharge Elimination System permit. A storm water general permit,
+which is somewhat like a PBR. If the criteria of the permit are met than anyone can
+have that permit, which is better than having individual permits for each sector of
+the facility. It is a multi-sector general permit for industrial facilities.
+ Storm Water Pollution Prevention Plan (SWPPP) - One of the requirements of
+the permit. This plan lists all the potential areas of contamination. Sources that
+Internal - SRN-010382 9
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+are permitted to go into the storm water system are identified. Testing
+requirements are also listed. If all these requirements are kept in place, then the
+general permit can be used. If there are issues, then it might mean that
+individual permits are required. (leading to higher cost, higher requirements)
+Annual training of individuals concerning activities (SWPPP) that could contribute to
+contamination of the storm water system is required. Ms. Collier does this training, and it
+normally involves individuals who are active in outdoor processing areas. Work is also
+done with the landscape crew, as well as any third-party contractors working on site. The
+training plan is reviewed annually. (Note: Training documents are stored in SharePoint
+under the SPCC and SWPPP section within the water folder.)
+When STCH still had individual stormwater permits in place, after each rain occurrence,
+someone had to go out and take samples. Each sample had to be analysed on 4
+parameters by an external lab (which had collection, shipping, analytical, reporting etc.
+costs). Those reports had to be consolidated into monthly Discharge Monitoring Reports
+(DMR). There was also a requirement to do biotesting every 5 years. The multi-sector
+general permit only has a yearly requirement to test for metals. This data goes into a
+Discharge Monitoring Report (DMR), and it is only submitted if there are failures (to date
+none have occurred). This general permit is on a 5-year cycle.
+Best Practice – Environmental Training is more effective when done in person
+for on-site staff that could impact storm water discharge limit compliance
+When training staff and contractors at a laboratory facility like Shell Technology
+Center Houston, it is important to help them understand that they are an important
+part of the process in keeping the storm water conveyance system as clean as
+possible. Each activity on site can cause issues for the storm water system if
+precautions are not taken. It is therefore important to follow the Storm Water
+Pollution Prevention Plan and make sure there is good communication (best
+achieved through in-person visits) with the various parties working on site.
+Compliance Calendar
+There is a compliance calendar that details which reports are due when and the
+regulations that drive each report submittal. It is a managed Excel spreadsheet, stored
+within Assurance SharePoint.
+Best Practice – Environmental compliance requirement monitoring is improved
+through use of a central tracking tool:
+All laboratory site Environmental compliance requirements (i.e.: testing, reporting,
+training) at Shell Technology Center Houston are managed together in one single
+electronic repository. (i.e.: An Excel spreadsheet) Centralizing this information for
+Internal - SRN-010382 10
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+the requirements of all environmental media (Air, Water, Waste) helps ensure that
+compliance oversight is consolidated and can be monitored/managed in one
+place. Distributing these requirements to various departments or individuals leads
+to higher exposure for non-compliance during staff/organizational changes.
+2.1.3. Waste
+Managing the Waste media deals with collection, handling, storage, and disposal of
+various waste stream categories at site. It also requires managing the different reports
+required for these waste streams and the associated waste management processes.
+ Annual Waste Summary – A key report that SET creates based on all the on-site
+Hazardous and Non-hazardous class 1 materials (materials that have been a part
+of an industrial process but are not strictly hazardous/dangerous). After the
+document receives the necessary approvals and is signed off, it is submitted to the
+TCEQ via the STEERS system. Once it is in the system, minor adjustments can be
+made on an annual basis. (TCEQ State of Texas Environmental Electronic
+Reporting System STEERS) ()
+ Waste Source Reduction Plan. Because STCH is classified as a large quantity
+generator of waste, there is a requirement to create a plan to reduce waste s
+volumes. SET also creates this plan and works with waste generators on site to
+identify waste streams that would be candidates for reduction. Ms. Collier oversees
+this process. A 5-year plan is presented to the state and progress is reported
+annually in the Annual Performance Report (APR).
+ All wastes streams at site are tracked, even though some do not require reporting
+to regulators. Internal Shell requirements require a report to be generated
+quarterly for Shell head office.
+Project Environmental Support
+There are two types of projects undertaken at STCH, ones that build or remove buildings,
+and research projects. These projects can have various durations, so it is critical to support
+these projects in managing Environmental permitting requirements, etc., which is a key role
+of Ms. Collier’s position. This also means providing training to those individuals that are
+required to sign off on the various waste manifests, reports, etc. associated with these
+projects.
+Waste Facility Assurance & Verification
+Another activity managed by Ms. Collier is the assurance and verification of the various
+facilities (e.g.: Reuse, Recycling, Disposal) that Shell uses to process waste materials. These
+facilities need to meet Shell’s requirements. STCH attempts to limit the number of facilities
+it uses for waste management so that the long-term Environmental liability is reduced.
+Internal - SRN-010382 11
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+STCH has joined an industry consortium CHWMEG (Not an Acronym) that audits Offsite
+Residual Management facilities. This means that each member company does not have to
+go out and audit each waste treatment facility they use. CHWMEG Audits can be very
+extensive with reports being over 100s of pages, and these audits are done on a 3 to 5-
+year cadence. STCH Waste Leads analyse these reports and recommend facilities that are
+suitable for use. (Note: There are also approved waste subject matter experts (SME)
+within Shell that can be called upon for support when needed.) If SET is considering
+sending waste to a facility not currently being used, its approval status for use can be
+verified by consulting the list of approved facilities or an audit must be considered for the
+new site before use depending on the type of facility. (Note: A complete list of approved
+facilities can be found in the Waste Catalogue, which is managed globally by Cindy
+Chen.)
+Class 3 Non-Hazardous Waste
+It is generally not beneficial to label waste as class 3 because this classification of waste
+requires special additional analysis. The price difference between class 2 and class 3
+disposal in not big enough to justify the additional costs associated with analysis of the
+waste. It would only be beneficial for very large volumes of class 3 waste.
+There is a waste management procedure, found in the HSSE manual, which speaks to how
+each category of waste (e.g., batteries, light bulbs etc.) should be managed. The manual
+helps direct an employee to the right person who will know how to dispose of a specific
+waste.
+If SET notices any miss-management of waste disposal (e.g., throwing aerosol cans in
+regular waste bins) then they will contact Ms. Collier to help inform the parties that are
+managing waste incorrectly. Follow up by Ms. Collier is intended to educate/train the
+individuals, so the wastes are managed properly going forward. An event should be
+entered if this occurs.
+2.2. How does the information flow to meet the regulatory needs?
+Meetings per Calendar Year
+Outside of non-scheduled regular communication, there are several cadence meetings held
+during a calendar year to manage Air, Water, and Waste related issues:
+ A notice of registration meeting is held two times a year. This meeting discusses all
+the waste streams and waste units on site.
+ Three times a year there is a meeting on storm water to discuss any concerns and
+to complete the Comprehensive Site Stormwater Inspection required by the Storm
+Water Pollution Prevention Plan (SWPPP).
+Internal - SRN-010382 12
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+A hard copy yearly calendar is used to track compliance-related deliverables. (This was
+kept previously by Ms. Collier.)
+SET has given their employees and others a SWAG card that can be used to stop work.
+This is a guarantee that any employee has the authority to STOP work. Any employee at
+STCH is empowered to initiate a SWAG if they feel that activities are not meeting HSE
+requirements. If there are any issues related to the Stop Work Authority Guarantee
+(SWAG), this would be dealt with in a special ad hoc meeting.
+Spill Prevention Control & Countermeasures (SPCC) Plan
+The SPCC plan is also a requirement at STCH. The Environmental Specialist, Ms. Collier, is
+responsible for this. The SPCC plan is mandated by the Oil Pollution Act (OPA) 1990
+because there is a state water boundary at the northern edge of the STCH site.
+The plan needs to be updated every year as needed and every 5 years needs to be
+certified by a PE. The plan will need to be renewed in 2026, which is normally done by a
+consultant (AECOM).
+Documents
+All Environmental documents necessary to meet regulatory and internal Shell requirements
+are stored on SharePoint. A large amount of data is collected from various sources at
+STCH, and it is then fed into the various reports. If an Environmental incident occurs, then it
+is beneficial to physically go out to the location at the site and personally follow-up to get
+a good impression of what is going on to help develop plans to prevent reoccurrence and
+to complete any required reporting.
+Environmental related documents can, and where necessary, should be marked as records
+so that they are not automatically deleted after 3 years.
+Lesson Learned – Site Environmental experts at a laboratory facility should inspect site
+conditions after an Environmental incident
+It can be invaluable for Environmental experts at a laboratory facility, like Shell
+Technology Center Houston, to get out to the site after Environmental incidents
+occur. This allows the experts to understand the causes of incidents, conditions
+under which the incidents occurred, and helps them to determine ways to help the
+site prevent recurrence of similar incidents. This is not to say that normal Incident
+Investigations are not warranted, but these visual observations by Environmental
+staff who understand the regulatory and non-regulatory requirements, gives them
+additional data for future improvement planning.
+2.3. Processes at STCH for compliance and permitting new sources?
+The process at STCH for permitting new sources is initiated through the site Management
+of Change (MOC) process. The MOC HSSE representative involved in individual MOC
+Internal - SRN-010382 13
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+reviews makes sure that participants are aware when permitting new sources what would
+be required by changing site activities. If a new Environmental permit will/could be
+required, then the MOC process triggers an interface with Ms. Collier. The MOC
+Coordinator may also bring in other SMEs that can address specific topics in the permit.
+MOCs are discussed in weekly meetings, and if those are attended then it is easy to follow
+any developments on MOCs requiring new Environmental permits or other Environmental
+activity. The HSSE manager also discusses any ongoing projects during Incident Review
+Team (IRT+) meetings and in the weekly project status meetings. These internal and
+external meetings are additional controls to help assure that there is appropriate
+Environmental team involvement in each actual or possible new permit request or other
+Environmental need.
+2.4. Key Stakeholders at STCH (20+ VP-ships & Multiple Project
+Groups)
+There are representatives in the site HSE team to cover each of the VP-ships at STCH.
+These HSSE representatives will update Ms. Collier if something new is going on and they
+will ask her about any future steps that need to be taken from an Environmental
+perspective.
+2.4.1. Project Groups – Capital Projects, Real Estate, 3rd Party Tenants
+Third parties are generally brought to STCH through the Real Estate group, as Real Estate
+facilitates the lease for the third-party tenants. These 3rd Party leases each require an HSE
+plan, which Ms. Collier helps deliver through an environmental review. For some
+Environmental items, Environmental services and support are provided on site and for
+other items the third party will have to secure their own Environmental expertise to help
+with permit applications, reporting, and general environmental compliance.
+Real Estate has several other interfaces that could require engagement with the site
+Environmental expert. Examples include:
+ Real Estate creates a new class 2 waste that needs to be tracked.
+ The Landscape team uses herbicides, pesticides and algicides on site and those
+need to be vetted to make sure they do not create issues for the site. Changes to
+these would require Environmental engagement.
+ Recycling efforts to lead sustainability efforts. For example, ordering furniture can
+play into sustainability goals for the site and environmental expertise on circular
+economy issues of new furniture lines may be needed.
+Ms. Collier is both a knowledge source for Real Estate, as well as a support partner should
+they require it. Recently the responsibilities of the Real Estate team have decreased, and
+Internal - SRN-010382 14
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+those responsibilities have moved to PTX Operations.
+Advice: To keep up to date with changes it is beneficial to maintain close relationships with
+all parties involved so that there is an awareness if there are any changes. For example,
+Brown & Root has moved from a Real Estate contract to P&T, so having close connections
+means that the new interface for that contract is known from the start. Many of these
+changes have happened in the past year, so there is still an ongoing process around the
+changes that have been put in place. Managing these organisational changes can only be
+done through frequent engagements with the parties involved.
+Building these relationships helps build and earn trust. If people know what must be done
+with the information and that it will not be a negative impact on an individual if they share
+trust. At most Shell locations no one intentionally goes against regulations, so the best
+thing to do is admit that a mistake has been made. That can then be fixed and make it
+possible to move forward.
+Recommendation for the Future – Staying ahead of Environmental changes at a Shell
+laboratory have been dependent upon having strong personal relationships with key
+site stakeholders based upon mutual trust
+Roles and responsibilities at a laboratory site like Shell Technology Center Houston
+(STCH) change with personnel changes, site leadership changes, and site
+management approaches change with time. The best way to ensure understanding
+of the possible environmental implications of changes at a site as large and
+complex as STCH, is to maintain close relationships with all parties involved so that
+there is an awareness if there are any changes. Building these relationships and not
+placing blame when things go wrong, helps build and earn trust with key
+stakeholders. During times of change, these relationships pay dividends by
+unsolicited sharing of information with the Environmental focal point, and support
+to ensure seamless handover of activities that help to maintain environmental
+compliance and improved environmental performance.
+2.5. Regulatory Contacts & External Contacts (Key Contacts)
+[Limited Time was spent on this topic during the ROCK interview]
+TCEQ
+There are key contacts in each media. TCEQ has an extensive list on their website. Other
+than that, TCEQ will contact Ms. Collier as she is listed in their system as the key contact
+for all associated programmes.
+ Camella Widdenhoffer is the contact in TCEQ for the Title 5 permitting process.
+ Ms. Toledo works in the subsidence district.
+Internal - SRN-010382 15
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+EPA
+The EPA process is much the same as TCEQ and they will contact Ms. Collier for
+inspections etc.. For both EPA and TCEQ, Maurice Pinder will take over the responsibility
+as the key STCH contact going forward.
+[Please review to “Section 8: Personal Contacts” for additional information on external
+regulatory contacts.]
+Shell Internal not STCH
+Ms. Collier is connected with SMEs across Shell on waste etc. She is also a member of
+forums within Shell, such as the Carbon & Environment group and the Waste group. They
+both have monthly connections that she will attend. However, STCH being a research
+facility is quite different to most other facilities in Shell (upstream or manufacturing) and
+STCH therefore has different regulatory requirements compared to most other classic
+Upstream or Manufacturing locations in the US. The other technology centres in Shell are
+all in other countries, so they fall under very different regulations, which are not directly
+comparable to those that apply to STCH.
+ Diana Hank, a waste SME, holds a meeting on a regular basis that allows those
+interested to connect and discuss the different issues around waste and auditing.
+ Lynda Beach, Environmental Skillpool manager. She helps bring relevant parties
+together and helps develop staff.
+ Michael Kohnke leads the groundwater group.
+ Albert Janssen leads the group for Water and Waste.
+ Cindy Chen can be contacted to see who currently manages the latest Air related
+items. STCH is such a small facility regarding air, Ms. Collier attends the meetings
+to keep informed of general developments, most of which are not applicable to
+STCH.
+ STCH has a dedicated Shell attorney, Ms. Erin Pena.
+Internal - SRN-010382 16
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+3. License to Operate Success
+It is often undervalued how much work goes into regulatory compliance.
+Challenge for the Future – If Shell Technology Center Houston (STCH) is moved
+to the Woodcreek site
+A challenge for the future would be if the STCH decides to move operations to the
+nearby Woodcreek site. All current permits would have to be analysed and likely
+new permits would have to be acquired for such a move. Some of the items of
+particular concern include: permitting a new flare at Woodcreek (each PBR permit
+would have to be assessed for the new location as these permit requirements are
+tied to the distance to the nearest receptor), certain STCH permits (e.g.: the Cogen
+unit) are grandfathered under older regulations and wouldn’t likely remain
+grandfathered with a location move. Furthermore, environmental compliance
+would need to continue to be managed at STCH for closure while new permits are
+being acquired for research related activities at Woodcreek.
+Challenge for the Future – Changing activities at Shell Technology Center
+Houston (STCH) could either simplify or complicate Environmental permits and
+environmental compliance at the laboratory site
+The STCH laboratory site is currently at a major decision crossroad. It is unsure if
+the STCH will move, if it will stay where it is and get smaller, or if it will stay where
+it is and take on more 3rd Party customers and grow. If STCH moves, the regulatory
+requirements will likely increase as historically grandfathered equipment/permits
+having to be re-permitted for the new location. If STCH gets smaller due to
+changing activities, some Environmental permitting and compliance elements might
+become easier. However, if new third parties are brought onsite, they would need
+to be aligned with STCH’s operations at the time, which might require different
+and/or additional environmental controls.
+Risk for the Future – Numerous small Environmental permit violations at a
+laboratory facility can lead to unwanted attention from regulators. Managing
+the small things (or the details) is therefore very important
+It is often the little things that sometimes get forgotten about, which in turn can
+cause minor permit violations. Numerous small violations can get the attention of
+regulatory agencies and bring agency personnel to the site for inspections because
+they are seeing these numerous small permit violations. This means that if required
+information or data is omitted from Environmental reports, or if minor permit
+Internal - SRN-010382 17
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+infractions occur, these can have detrimental implications down the line. This is
+because Shell Technology Center Houston is a self-reporting entity, so not including
+things, or multiple minor violations can cause larger and possibly expensive
+repercussions for the business if regulators get interested and more involved.
+Internal - SRN-010382 18
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+4. Site Specific Topics (Brief History & Current State
+of Each)
+4.1. MB Tank Farm, Contamination
+There has been some historical contamination from spills (gasoline, diesel) at the tank
+farm. There is a report documenting this, which has recently been incorporated into the
+excavation procedure. There might be new information that needs to be gathered, but that
+will be determined by future activities planned in the area.
+In certain areas the soil is labelled as hazardous waste and in other areas it is not. It
+depends on the chromium and lead content (not organics) of the soil that was identified by
+past work and soil testing.
+A research group once on site put in some research projects for testing remediation of the
+soil, which they wanted to apply commercially. For the projects, a site characterisation
+report was written up, which has been added to the current excavation procedure
+currently in place.
+4.2. Holding Ponds
+The dry basin was put in as a storm water retention pond for the installation of one of the
+new buildings on site (N-building). It was a requirement for construction of that building, so
+the area needs to be maintained. However, adequate maintenance was not done until
+recently. With the recent maintenance a concrete pathway was put in to allow water to
+flow. Care needs to be taken to keep that area well maintained because if not it can
+quickly become overgrown and inaccessible, thus becoming a wetland.
+Advice
+It would be beneficial to turn responsibility for maintaining the storm water retention pond
+area over to Real Estate, a group that already manages similar areas on site. This work is
+currently done through Compass, a third party that does landscaping services for Real
+Estate. Many contractors do not like to maintain an area like the dry basin because it
+remains semi wet (snake habitat, machinery movement issues, it gets overgrown quickly,
+etc.).
+Furthermore, the facility needs to keep removing litter because if not, litter will end up in
+similar areas and be washed off site (outfalls). It can be difficult to motivate teams to pick
+up litter that is someone else’s garbage, but it must be removed.
+New Sandblasting & Painting Area
+With the new sandblasting and painting area on site, care still needs to be taken to not
+execute work if winds are unfavourable for any of the neighbours.
+Internal - SRN-010382 19
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+There is no procedure in place yet, but it would be beneficial to do so. If a new painting
+booth needs to be installed, a PBR will need to be set up specifically for this unit.
+Recommendation for the Future – A sandblasting procedure for the new sandblasting
+area at the Shell Technology Center Houston should be developed and implemented to
+protect neighbouring properties in certain wind conditions
+Highway 6
+One of the holding ponds (the first or second pond past the dry basin – pipe is visible on
+west side) is also connected to a ditch that runs along Highway 6. If there is an accident
+on the highway, it could potentially lead to liquids from the accident (e.g. petrol or diesel)
+getting into the holding pond. This connectivity was present even before the site was built
+up by Shell (previously there was a creek running through the site).
+For example, in the past, there was a spill on the highway that potentially caused fish
+deaths in the pond.
+ Gerry Edge – An independent contractor (structural engineer) who manages
+permitting for STCH with the city of Houston has knowledge about the history of
+this situation.
+4.3. Well #3 Issue, Well #1
+Freshwater Well 3
+The important point for this well is that the permitted extraction limit is not exceeded (3
+million gallons). It is very easy to withdraw that maximum amount.
+One of the goals is to keep water in the holding ponds, if those get too dry then the fish in
+those ponds will die. This could lead to external sources thinking that the cause of the fish
+death is some chemical that was released in the water, when that is not the cause.
+The main use of the well is to put water in the ponds so that the correct water level is
+maintained. If the extraction limit is reached, then adding more water from the well into
+the pond is not possible. This rarely happens unless additions are not managed properly.
+Freshwater Well 1 & Freshwater Well 2
+Wells 1 and 2 were used to supply potable water for the facility. However, the subsidence
+district halted groundwater withdrawals because of subsidence. Those two wells have
+been plugged and formally abandoned. However, it is possible to drill those plugs out and
+the subsidence district has stated in the past that one well can be drilled for emergency use
+(freeze protection), if desired.
+In order to move forward, conversations need to be started up with the subsidence district
+around what is available for the site and the types of permit volumes would be allowed.
+Texas Railroad Commission (TRRC)
+To drill an oil or gas well in Texas, one needs to be registered with the Texas Railroad
+Internal - SRN-010382 20
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Commission under the P5 document. Shell had wells in the Permian Basin, outside of
+College Station, and in Hempstead. Those wells have officially all been plugged and
+abandoned. However, the TRRC continued sending renewals for the P5, even though those
+wells were not active anymore. There are two other Shell staff who are familiar with these
+issues:
+ Toylaine Spencer - PCRO (Spencer, Toylaine H SHLUSA-FM/I/P/A1)
+ Jane Newitt - (Newitt, Jane A SHLUSA-FM/I/P/A)
+Internal - SRN-010382 21
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+5. LOPC Reduction Campaign
+STCH does a lot of research for other Shell entities, as well as third parties. Samples are
+sent via various courier services (FedEx, UPS, DHL, etc.). In the past, many of the samples
+that came in were leaking likely due to incorrect packaging prior to shipping which may
+have been completed by folks in the field or even companies who actually prepare
+samples for shipment. This created a lot of problems for our site, so something needed to
+be done to improve sample shipping.
+New Processes Instituted
+If a leaking package came from another Shell entity, then the owner would be looked up
+in the Shell database and an incident management report would be sent to them, as they
+were accountable for that shipment (and hence accountable for the spill).
+Instituting this accountability has led to a large reduction in sample spills by educating the
+shippers and attributing spills to them. Those sending improperly shipped packages could
+not adjust shipping practices until they knew that the packages arrived with leaking liquids.
+For third parties, sample packaging guidance has been shared with them. Shell cannot
+mandate the guidance, but many are now doing a better job at sending samples without
+leaks.
+These process changes have led to a big reduction in leaking packages, and to lower
+LOPC counts.
+Leah Hogendoorn is a Dangerous Good Specialist for the Americas, but she did not want
+to take on the responsibility for writing the shipping document, as many of the shipping
+products did not meet dangerous goods requirements. She did provide guidance in
+publishing the document and has audited STCH in the past.
+Lessons Learned – Volumes of Sample Spills were significantly reduced when shipping
+parties were made aware of improper packaging issues and were held accountable for
+the sample spill volumes
+The Shell Technology Center Houston laboratory does a significant amount of
+research for various Shell entities, and other 3rd parties. Historically, many of the
+samples that were shipped to the site via normal courier services (FedEx, UPS, DHL,
+etc.) arrived leaking. A process was instituted that leaking package entities were
+contacted about the spill from their samples, were educated on proper shipping
+procedures, and spill volumes were attributed to their respective organizations, if
+they were Shell entities. This procedure significantly reduced spill volumes due to
+improperly shipped samples over time. (Non-Shell entities were sent proper sample
+shipping guidance when spilled samples were received from them.)
+Internal - SRN-010382 22
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+6. Sustainability: Net Zero Emissions, Respect for
+Nature, etc.
+Sustainability goals come from Shell head office, so no selection decisions on these goals
+are made at STCH. Projects at STCH do not want to spend the money on certain things
+that might help reach sustainability goals, which means that the Environmental team has to
+make sure to keep awareness high around sustainability so that goals might be adopted
+on a project-by-project basis without mandating them. For example, a new project could
+look to utilise renewable electricity, but the project would have to go out and source it.
+An Environmental Specialist cannot influence this process much. The only things that can
+be done are to stay connected with projects that have sustainability opportunities (e.g.,
+recycling materials during a building demolition), make them aware of Shell Sustainability
+goals, and require them to report their sustainability data into the Environmental
+Specialist.
+The three key challenges in this space are:
+ Implementing sustainable development goals that come from Shell Group are often
+very difficult because these goals are not aligned with sustainability opportunities
+that can actually be implemented at the STCH site.
+ The Environmental staff at STCH have limited ability to influence projects and
+business entities on site to incorporate Shell Group sustainability goals into their
+practices.
+ Projects have a limited budget and often do not use that budget to pursue
+sustainable development goals, or only choose to adopt low-cost sustainability
+goals.
+Challenge for the Future – Shell Group Sustainability Goals are often not applicable to
+a Shell Research type facility and those that are face significant challenges to
+achievement at a business or project level at the site
+There are 3 key challenges to implementing Shell Group Sustainability goals at a
+laboratory facility like the Shell Technology Center Houston: Implementing sustainable
+development goals that come from Shell Group are often very difficult because these
+goals are not aligned with sustainability opportunities that can actually be
+implemented at the STCH site. The Environmental staff at STCH have limited ability to
+influence projects and business entities and on site, and no power to mandate that they
+incorporate Shell Group sustainability goals into their practices. Projects have a limited
+budget and often do not use that budget to pursue sustainable development goals, or
+only choose to adopt low-cost goals.
+Internal - SRN-010382 23
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Respect for Nature
+There are a number of activities at STCH that contribute to or could be categorized as
+Respect for Nature activities:
+ The storm water programme is a big contributor to Respect for Nature.
+ Assurance activities for recyclers, and disposal companies etc.. Not all recycling
+and disposal companies are run well and can harm nature in a variety of ways.
+Waste related assurance activities minimize Shell from using those companies that
+are poorly run, and whose activities would negatively impact the environment and
+nature.
+ Advising landscaping companies on chemical use on site. This could result in the
+landscape companies limiting the types and amounts of chemicals used in their
+activities, guide their activities so that even if certain chemicals are used, they are
+used in a manner that does not negatively affect other areas (e.g., drift into the
+water). Note: This requires Environmental staff reviewing the products being used,
+as some items on the market for commercial use can be very toxic for the
+environment.
+ All the cats on the site have been spayed and neutered so that they do not
+continue multiplying.
+ An attempt was made to incorporate the Wildlife at Work programme at STCH, but
+due to staff constraints, this program had limited success. This program could be
+revisited again in the future.
+Internal - SRN-010382 24
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+7. Environmental Support Work (Consultation, MOCs,
+Project Recycling, Respect for Nature, Flaring Issues,
+Chilled Water Pump)
+Environmental support is almost always involved in the MOC process, as each project will
+typically have at least a small environmental element associated with it. For example, the
+STCH site transformation project included significant demolition work, which would lead to
+a lot of opportunity for recycling of waste streams. Environmental support focuses on
+connecting with the project HSE Manager and support them and SET to make sure that the
+project would receive the support to be able to recycle as much material as possible.
+The flare is a permitted source, a pollution control device, and comes under the highly
+reactive volatile organic compounds (HRVOC) regulations. For some of the flare projects
+in addition to just the site Environmental expert, other Shell SMEs have been brought in for
+their support. Environmental support is always made available for flare related issues via
+the Environmental Specialist.
+There is a biotreatment request form online that all projects have to fill out if the project is
+going to create wastewater that requires disposal in the process sewer facilities. When a
+project has completed the form, it is sent to the three different approvers (operational,
+environmental, and waste). In this way, Environmental support is included in potential
+changes and/or potential impacts to the POTW or biotreatment plant, downstream. See
+the waste management procedure found in the HSE Manual for details.
+There are so many projects coming and going at STCH, with very diverse waste streams,
+the site must take care not to upset the publicly owned treatment works (POTW). Because
+STCH is the only industrial contributor to that local POTW, they will automatically blame
+STCH if an issue comes up (whether STCH is responsible or not). Environmental support
+gets involved as requested to help address POTW related issues and prevent problems at
+the local POTW.
+Best Practice – Effective communication and interpersonal skills are critical to
+Environmental support staff working at a Shell laboratory site such as Shell Technology
+Center Houston
+Communication is one of the best traits someone can have who is working in the
+environmental space. If there is poor communication then that will put other parties
+on edge, which can be very detrimental in the environmental space. It is important
+not to give the impression that you are holding back or hiding something. Open and
+honest communication, including listening to the other party and trying to understand
+their view, as well as trying to meet their needs, is of great benefit. Other parties
+Internal - SRN-010382 25
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+(regulators etc.) have a reason for doing what they need to do and so letting them
+do that will put them at ease.
+Internal - SRN-010382 26
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+8. Personal Networks
+Key Contacts: Internal to Shell
+Environmental
+ Diana Henk – Senior Soil & Groundwater Specialist
+ Michael Kohnke - Soil & Groundwater SME
+ Albert Janssen is the Water and Waste SME with PTS/ED
+ Cindy Chen is the Waste person in PTS/ED helps with auditing vendors. Shell’s
+representative at CHWMEG. She manages audit requests, which can come at a
+reduced rate if applied for in advance.
+ Tim Smith (Environmental Skillpool) is a Waste SME who analyses the CHWMEG
+reports. Sometimes those reports are pre-processed by third parties to make them
+more manageable for the SME to review.
+ Environmental Attorney – Erin Pena
+ Ellen Hall – Air Emissions Tool – Joe Day can provide #
+ Kristin Knoll K2Environmental can score the CHWMEG and 3rd party waste audits
+prior to SME review if the SME requests this service, her number is 615-579-0727.
+STCH Site Contacts
+ Site Generator rep. Carlos Gutierrez w/ B&R
+ Painting & Sandblasting (SDSs) rep. Jerry McNeil w/ B&R
+ Boilers, Cogen, Flare, Gasoline, and Diesel – CJ (Callan Dyke) at Utilities with B&R
+– 281-544-9304, 832-232-1021
+ Refrigerant’s rep. James Pianezzola (JP) I think w/ B&R – Refrigerants inventory
+only accessible on the one computer in HVAC office. 832-474-5241
+ Pioneer – Waste (Shredding) Lester Bradley
+ Compass – Waste and Recycle (Office and Café) Geramy (Gerald) Roach 832-
+272-6696 and Daniela Pineda 346-804-9074 and Cristina Gonzalez 713-922-
+1684
+ Stormwater – Dustin Frazier with SET – 713-899-6660
+ Potable Water – CJ w/ B&R and Jerry Quintanilla with B&R + Dustin Frazier with
+SET
+ Waste – Luke Pickrell – SET – 281-380-3417
+ Brian Joiner – SET for all services assistance – 281-620-3673
+ Aziz Meleka – Real Estate Projects Portfolio Manager – 480-329-0536
+ Derrick Heyde – American Fire Protection - Fire Back-Flow Preventers
+ Brent Norris – Fire Chief – 979-739-6829 Should be listed in SPCC/SWPPP Plans
+ Brian Ussery – Site Shell Good Guy that does a lot with projects and helps
+Environmental a lot – 832-573-3475
+Internal - SRN-010382 27
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+ Brian Webster – Site Infrastructure & Utilities Manager 360-333-1556
+ Carol Whitmire PTX/T (Knows a lot about that group, been here 30+ years) – 281-
+544-8726, 832-202-6223
+ Charlie Solito – RE Environmental guy – 281-544-9291, 907-280-7812 – Will help
+you gather and can provide you the RE Project waste
+ Dan Didier – SET’s Regulatory guy if you need any help, mostly in waste 713-641-
+7574
+ Jaime Smith – Electrician for Transformer questions or the working of the Stationary
+Generators all over site – 713-412-2519
+ Jerry McNeil – B&R Safety and posts Paint & Sandblast records 281-636-8249
+ Jerry or Gerry Quintanilla – knows a lot about the STCH plumbing system and will
+come to you with repair on the potable water system work – you can ask him
+about disinfection 281-492-4119
+ Joe McKinney – SET – good waste contact and was at STCH for a while 713-816-
+3728
+ STCH Maintenance 713-241-2345
+ Meagan Middleton – SET – 281-253-2513
+ Mike Fish Micro-Grid – Nat Gas Engine and renewable power generated
+ Randy Neuendorff – B&R 979-942-6838 – he can help with hanging stuff at gate
+for permit public notice and inspects some stormwater stuff around their activities
+ Rekha Hanumanthan – SET provides numbers for Quarterly Environmental report
+ Robert Hardy – B&R works on potable water and in soils/excavations, has been
+around a long time – 832-310-3911
+ Trung Vo – Pi guy for flare info. 409-225-1889
+ Rosa Aguilar – EO Micro Reactors – 281-544-6931
+ Unit 16 (After Hrs Guys that rove around site. They do initial response to releases
+at night that they find so they may call you. Good to give them your Shell
+number 832-416-2037
+ Vehicle Assistance - @ STCH if your car won’t start, etc. 281-544-8155
+ Victor Maldonado – B&R and has been here a long time. Knows a lot about a lot
+of things but has his finger on the pulse of back-flow preventers 713-498-5606
+Other
+ Computer Help Desk – Shell – 312-843-5291
+Key Contacts: External
+ Yolanda Toledo – 281-956-2189 Hours: 6 – 3 Harris-Galveston Subsidence District
+(HGSD)
+ Camilla Widenhofer – TCEQ Federal Title V Permit Engineer
+Internal - SRN-010382 28
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+ TCEQ Air Permits Division
+P.O. Box 13087, MC 163
+Austin, TX 78753
+Phone: (512)239-1028
+Fax: (512)239-1300
+camilla.widenhofer@tceq.texas.gov
+ TCEQ Reg 12 Air Guy – 713-767-3720
+ TCEQ Air others 713-767-3712, 713-767-3500, 713-767-3714
+ TCEQ – All water issues WQ #0001853000 888-777-3186
+ TCEQ – Austin 512-239-1000 or 512-463-7727
+ TCEQ – Spill # 713-767-3563
+ TCEQ STEERS 512-239-6925
+ Harris County Pollution Control – 713-920-2831
+ NRC – Coast Guard Command Center to report RQ/reportable releases other
+than minor stormwater releases – 866-370-3865
+ City of Houston Air Monitoring Trailer by the MicroGrid – 832-393-5703, Contact
+James Fabian 281-865-6813 - Combination for lock either for them or our
+landscape guys to get in there to mow is 9898
+ City of Houston Potable water lady, Julie Huerta 346-266-4483
+ City of Houston guy that flushes the hydrant coming inside STCH, like for low
+chlorine residual – Scott Barker 713-562-2957
+ City Potable Water Lab for Bacterial Testing – 832-393-3939 – Our account is
+#1010557
+ Terri May – AECOM (Air Consultant) Cell – 832-875-7351 best way to reach
+her Katy Office 281-675-3591
+ Angela Johnson – AECOM (Waste/SPCC/SWPPP Consultant) – 832-244-2903
+ XENCO Lab now Eurofins Debbie Simmons 281-240-4200 Ext. 1104 and cell 281-
+630-9242 if an emergency – Does analysis on water and waste for us.
+ Eurofins – Lance Tigrett if you need help with issues on analysis 979-484-9088
+Internal - SRN-010382 29
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+9. Best Practices
+Best Practices Additional
+Metadata (in
+Addition to
+Document
+Metadata)
+Social
+Best Practice – Environmental Training is more effective
+Performance,
+when done in person for on-site staff that could impact
+Community
+storm water discharge limit compliance
+Benefits,
+When training staff and contractors at a laboratory facility like
+Social Impacts
+Shell Technology Center Houston, it is important to help them
+understand that they are an important part of the process in
+keeping the storm water conveyance system as clean as
+possible. Each activity on site can cause issues for the storm
+water system if precautions are not taken. It is therefore
+important to follow the Storm Water Pollution Prevention Plan
+and make sure there is good communication (best achieved
+through in-person visits) with the various parties working on
+site.
+Best Practice – Environmental compliance requirement
+monitoring is improved through use of a central tracking
+tool
+All laboratory site Environmental compliance requirements
+(i.e.: testing, reporting, training) at Shell Technology Center
+Houston are managed together in one single electronic
+repository. (i.e.: An Excel spreadsheet) Centralizing this
+information for the requirements of all environmental media
+(Air, Water, Waste) helps ensure that compliance oversight is
+consolidated and can be monitored/managed in one place.
+Distributing these requirements to various departments or
+individuals leads to higher exposure for non-compliance
+during staff/organizational changes.
+Internal - SRN-010382 30
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Best Practice – Effective communication and interpersonal
+skills are critical to Environmental support staff working at a
+Shell laboratory site such as Shell Technology Center
+Houston
+Communication is one of the best traits someone can have
+who is working in the environmental space. If there is poor
+communication then that will put other parties on edge, which
+can be very detrimental in the environmental space. It is
+important not to give the impression that you are holding back
+or hiding something. Open and honest communication,
+including listening to the other party and trying to understand
+their view, as well as trying to meet their needs, is of great
+benefit. Other parties (regulators etc.) have a reason for
+doing what they need to do and so letting them do that will
+put them at ease.
+Internal - SRN-010382 31
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+10. Lessons Learned
+Lessons Learned Additional
+Metadata (in
+Addition to
+Document
+Metadata)
+Lesson Learned – Site Environmental experts at a
+laboratory facility should inspect site conditions after an
+Environmental incident
+It can be invaluable for Environmental experts at a laboratory
+facility, like Shell Technology Center Houston, to get out to the
+site after Environmental incidents occur. This allows the
+experts to understand the causes of incidents, conditions under
+which the incidents occurred, and helps them to determine
+ways to help the site prevent recurrence of similar incidents.
+This is not to say that normal Incident Investigations are not
+warranted, but these visual observations by Environmental
+staff who understand the regulatory and non-regulatory
+requirements, gives them additional data for future
+improvement planning.
+Lessons Learned – Volumes of Sample Spills were
+significantly reduced when shipping parties were made
+aware of improper packaging issues and were held
+accountable for the sample spill volumes
+The Shell Technology Center Houston laboratory does a
+significant amount of research for various Shell entities, and
+other 3rd parties. Historically, many of the samples that were
+shipped to the site via normal courier services (FedEx, UPS,
+DHL, etc.) arrived leaking. A process was instituted that
+leaking package entities were contacted about the spill from
+their samples, were educated on proper shipping procedures,
+and spill volumes were attributed to their respective
+organizations, if they were Shell entities. This procedure
+significantly reduced spill volumes due to improperly shipped
+Internal - SRN-010382 32
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+samples over time. (Non-Shell entities were sent proper
+sample shipping guidance when spilled samples were received
+from them.)
+Internal - SRN-010382 33
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+11. Risks / Challenges for the Future
+Risks / Challenges and Recommendations for the Future Additional
+Metadata (in
+Addition to
+Document
+Metadata)
+Internal - SRN-010382 34
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Challenge for the Future – If Shell Technology Center
+Houston (STCH) is moved to the Woodcreek site
+A challenge for the future would be if the STCH decides to
+move operations to the nearby Woodcreek site. All current
+permits would have to be analysed and likely new permits
+would have to be acquired for such a move. Some of the items
+of particular concern include: permitting a new flare at
+Woodcreek (each PBR permit would have to be assessed for
+the new location as these permit requirements are tied to the
+distance to the nearest receptor), certain STCH permits (e.g.:
+the Cogen unit) are grandfathered under older regulations
+and wouldn’t likely remain grandfathered with a location
+move. Furthermore, environmental compliance would need to
+continue to be managed at STCH for closure while new
+permits are being acquired for research related activities at
+Woodcreek.
+Challenge for the Future – Changing activities at Shell
+Technology Center Houston (STCH) could either simplify or
+complicate Environmental permits and environmental
+compliance at the laboratory site
+The STCH laboratory site is currently at a major decision
+crossroad. It is unsure if the STCH will move, if it will stay
+where it is and get smaller, or if it will stay where it is and take
+on more 3rd Party customers and grow. If STCH moves, the
+regulatory requirements will likely increase as historically
+grandfathered equipment/permits having to be re-permitted
+for the new location. If STCH gets smaller due to changing
+activities, some Environmental permitting and compliance
+elements might become easier. However, if new third parties
+are brought onsite, they would need to be aligned with
+STCH’s operations at the time, which might require different
+and/or additional environmental controls.
+Internal - SRN-010382 35
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Risk for the Future – Numerous small Environmental permit
+violations at a laboratory facility can lead to unwanted
+attention from regulators. Managing the small things (or the
+details) is therefore very important
+It is often the little things that sometimes get forgotten about,
+which in turn can cause minor permit violations. Numerous
+small violations can get the attention of regulatory agencies
+and bring agency personnel to the site for inspections because
+they are seeing these numerous small permit violations. This
+means that if required information or data is omitted from
+Environmental reports, or if minor permit infractions occur,
+these can have detrimental implications down the line. This is
+because Shell Technology Center Houston is a self-reporting
+entity, so not including things, or multiple minor violations can
+cause larger and possibly expensive repercussions for the
+business if regulators get interested and more involved.
+Challenge for the Future – Shell Group Sustainability Goals
+are often not applicable to a Shell Research type facility
+and those that are face significant challenges to
+achievement at a business or project level at the site
+There are 3 key challenges to implementing Shell Group
+Sustainability goals at a laboratory facility like the Shell
+Technology Center Houston: Implementing sustainable
+development goals that come from Shell Group are often very
+difficult because these goals are not aligned with sustainability
+opportunities that can actually be implemented at the STCH
+site. The Environmental staff at STCH have limited ability to
+influence projects and business entities and on site, and no
+power to mandate that they incorporate Shell Group
+sustainability goals into their practices. Projects have a limited
+budget and often do not use that budget to pursue sustainable
+development goals, or only choose to adopt low-cost goals.
+Internal - SRN-010382 36
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+12. Opportunities for Improvement /
+Recommendations for the Future
+Opportunities for Improvement / Recommendations for the Additional
+Future Metadata (in
+Addition to
+Document
+Metadata)
+Recommendation for the Future – Staying ahead of
+Environmental changes at a Shell laboratory have been
+dependent upon having strong personal relationships with
+key site stakeholders based upon mutual trust
+Roles and responsibilities at a laboratory site like Shell
+Technology Center Houston (STCH) change with personnel
+changes, site leadership changes, and site management
+approaches change with time. The best way to ensure
+understanding of the possible environmental implications of
+changes at a site as large and complex as STCH, is to maintain
+close relationships with all parties involved so that there is an
+awareness if there are any changes. Building these
+relationships and not placing blame when things go wrong,
+helps build and earn trust with key stakeholders. During times
+of change, these relationships pay dividends by unsolicited
+sharing of information with the Environmental focal point, and
+support to ensure seamless handover of activities that help to
+maintain environmental compliance and improved
+environmental performance.
+Recommendation for the Future – A sandblasting procedure
+for the new sandblasting area at the Shell Technology
+Center Houston should be developed and implemented to
+protect neighbouring properties in certain wind conditions
+Internal - SRN-010382 37
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+13. Key Information Sources
+None noted during the ROCK interview, but several were shared in handover work with
+those that will be taking on Ms. Collier’s work responsibilities. (Maurice Pinder and others)
+Internal - SRN-010382 38
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Literature References
+None noted during the ROCK interview.
+Internal - SRN-010382 39
+Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and
+Waste - GSUSI-PTS-S
+Bibliographic Information
+Report Number SRN-010382
+Title Retention of Critical Knowledge - Beth Collier –
+Environmental Specialist: Air, Water and Waste -
+GSUSI-PTS-S
+Subject Retention of Critical Knowledge Report
+Keywords Environmental Compliance; Site Environmental
+Support; Shell Technology Center Houston; STCH;
+Laboratory; Environmental Compliance; Air
+Compliance; Water Compliance; Waste Compliance;
+Air Emission Management; Water Discharge
+Management; Waste Management; Air; Water;
+Waste; Respect for Nature; Sustainability; Critical
+Knowledge; Knowledge Retention; LFE; Learning from
+Experience
+Author(s) Kosiara, Mark SHLUSA-HRL/LK; Collier, Beth B
+GSUSI-PTS/S
+Reviewed by Smith, Rob L GSUSI-PTS/ST
+Approved by Smith, Rob L GSUSI-PTS/ST
+Issuing Company Shell USA, Inc.
+Publishing Date September 2024
+Security Classification Internal
+Internal - SRN-010382 40

@@ -1,0 +1,51 @@
+**Research Document: Retention of Critical Knowledge - Beth Collier**
+
+**1. General Background and Executive Summary**
+
+This ROCK exercise was conducted for Beth Collier, an Environmental Specialist with 21 years of service at Shell, as she retired. The goal was to capture her extensive knowledge in managing air, water, and waste at the Shell Technology Center Houston (STCH), supplementing existing handover efforts. The report inventories regulatory jurisdiction and reporting requirements managed by Ms. Collier, along with historical environmental information specific to her tenure.
+
+**2. Profile Competency and Tacit Knowledge**
+
+Ms. Collier’s expertise lies in managing the environmental aspects of HSSE (Health, Safety, Security, and Environment), specifically air, water, and waste management at STCH. Her responsibilities included:
+
+*   Record keeping
+*   Reporting to TCEQ (Texas Commission on Environmental Quality) and Shell Group
+*   Ensuring compliance with permits and regulations
+*   Providing environmental support for site operations and projects
+
+**3. Replicable Content and Potential Value**
+
+The report identifies several best practices, lessons learned, risks/challenges, and opportunities for improvement. These are detailed in sections 9-12 of the original report and summarized below.
+
+**4. Best Practices**
+
+*   **Effective Environmental Training:** In-person training for on-site staff and contractors is more effective for storm water discharge limit compliance. This approach emphasizes good communication and understanding of the Storm Water Pollution Prevention Plan (SWPPP).
+*   **Centralized Compliance Tracking:** Managing all environmental compliance requirements (testing, reporting, training) in a single electronic repository (e.g., Excel spreadsheet) improves oversight and reduces non-compliance risks during staff changes.
+*   **Effective Communication Skills:** Open and honest communication is critical for Environmental support staff, especially when dealing with regulators and stakeholders.
+
+**5. Lessons Learned**
+
+*   **Post-Incident Site Inspections:** Environmental experts should inspect site conditions after environmental incidents to understand the causes and prevent recurrence. This supplements formal incident investigations.
+*   **Accountability for Sample Spills:** Reducing sample spills by holding shipping parties accountable for improper packaging and attributing spill volumes to their organizations resulted in a significant decrease in LOPC (Loss of Primary Containment) incidents.
+
+**6. Risks/Challenges for the Future**
+
+*   **Relocation to Woodcreek Site:** Moving STCH to the Woodcreek site would require analyzing and acquiring new permits, potentially impacting grandfathered permits and increasing regulatory burden.
+*   **Changing Site Activities:** Changes in STCH activities (downsizing, growth, new third parties) could either simplify or complicate environmental permits and compliance.
+*   **Minor Permit Violations:** Numerous small environmental permit violations can attract unwanted regulatory attention.
+*   **Sustainability Goal Implementation:** Aligning Shell Group sustainability goals with STCH's capabilities and project budgets is challenging.
+
+**7. Opportunities for Improvement/Recommendations**
+
+*   **Stakeholder Relationships:** Maintaining strong personal relationships with key site stakeholders based on mutual trust is crucial for staying ahead of environmental changes.
+*   **Sandblasting Procedure:** Develop and implement a sandblasting procedure for the new area to protect neighboring properties from wind-blown materials.
+
+**8. Key Information Sources**
+
+Key information sources were shared in handover work with Maurice Pinder and others.
+
+**9. Author(s) Details, Report Number, and Keywords**
+
+*   **Report Number:** SRN-010382
+*   **Author(s):** Kosiara, Mark SHLUSA-HRL/LK; Collier, Beth B GSUSI-PTS/S
+*   **Keywords:** Environmental Compliance; Site Environmental Support; Shell Technology Center Houston; STCH; Laboratory; Air Compliance; Water Compliance; Waste Compliance; Air Emission Management; Water Discharge Management; Waste Management; Air; Water; Waste; Respect for Nature; Sustainability; Critical Knowledge; Knowledge Retention; LFE; Learning from Experience.

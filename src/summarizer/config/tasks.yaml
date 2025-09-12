@@ -1,0 +1,16 @@
+research_updates:
+  description: >
+    Conduct thorough research on {{raw_text}}. Consider Focus on:
+    1. Get information from General background, Executive Summary of the candidate 
+    2. Assess the profile competency and tacit knowledge
+    3. Extract the replicable content, potential value of the learning
+    4. Extract Author(s) Details, Report Number, and Keywords
+    Make sure to organize your findings in a structured format with clear sections and accurate information.
+    
+
+  expected_output: >
+    A comprehensive research document with well-organized sections covering the tangible impact and value that the lesson learned or best practice deliveries of {{raw_text}}. Include specific facts, figures, and examples where relevant. Remove the table of contents. The summarized content should not exceed 500 words.
+  
+  agent: researcher
+  # context: [clean_content]
+  output_file: "research_findings.txt"

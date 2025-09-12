@@ -1,0 +1,41 @@
+**General Background and Executive Summary:**
+
+The ROCK (Retention of Critical Knowledge) exercise was conducted for Beth Collier, an Environmental Specialist retiring from Shell after 21 years of service. The goal was to capture her extensive experience in managing air, water, and waste at the Shell Technology Center Houston (STCH), supplementing the handover to her successor, Maurice Pinder. The report inventories regulatory jurisdictions, reporting requirements, and historical environmental information, alongside lessons learned, best practices, risks, challenges, and recommendations for improvement.
+
+**Profile Competency and Tacit Knowledge:**
+
+Ms. Collier's competency lies in her deep understanding of environmental regulations and their practical application at STCH. Her tacit knowledge includes:
+
+*   Navigating the complex regulatory landscape of air, water, and waste management in Texas.
+*   Building and maintaining relationships with key stakeholders, both internal and external to Shell.
+*   Proactively identifying and addressing potential environmental risks and challenges.
+*   Implementing effective strategies for LOPC (Loss of Primary Containment) reduction.
+
+**Replicable Content and Potential Value:**
+
+The report highlights several replicable best practices and lessons learned:
+
+*   **Best Practice:** Conducting environmental training in person for staff and contractors to improve storm water discharge compliance. *Value:* Reduces the risk of non-compliance and associated penalties.
+*   **Best Practice:** Using a central tracking tool (Excel spreadsheet) for managing all environmental compliance requirements. *Value:* Ensures consolidated oversight and reduces the risk of non-compliance during staff or organizational changes.
+*   **Best Practice:** The importance of strong communication and interpersonal skills for environmental support staff. *Value:* Builds trust with stakeholders, ensuring seamless handover of activities and maintaining environmental compliance.
+*   **Lessons Learned:** Site Environmental experts at a laboratory facility should inspect site conditions after an Environmental incident.
+*Value:* Understand causes of incidents, conditions under which the incidents occurred and how to prevent future similar issues.
+*   **Lessons Learned:** Implementing accountability for sample spills by tracking and reporting incidents to the responsible parties reduced spill volumes significantly. *Value:* Minimizes environmental impact and reduces LOPC counts.
+
+**Risks and Challenges:**
+
+*   Potential complications arising from the relocation of STCH to the Woodcreek site, including re-permitting requirements.
+*   The impact of changing activities at STCH on environmental permits and compliance.
+*   The risk of numerous small environmental permit violations leading to increased regulatory scrutiny.
+*   The difficulty in implementing Shell Group sustainability goals at a research facility like STCH.
+
+**Opportunities for Improvement and Recommendations:**
+
+*   Maintain strong personal relationships with key site stakeholders to stay ahead of environmental changes.
+*   Develop and implement a sandblasting procedure for the new sandblasting area to protect neighboring properties.
+
+**Author(s) Details, Report Number, and Keywords:**
+
+*   **Author(s):** Kosiara, Mark SHLUSA-HRL/LK; Collier, Beth B GSUSI-PTS/S
+*   **Report Number:** SRN-010382
+*   **Keywords:** Environmental Compliance; Site Environmental Support; Shell Technology Center Houston; STCH; Laboratory; Environmental Compliance; Air Compliance; Water Compliance; Waste Compliance; Air Emission Management; Water Discharge Management; Waste Management; Air; Water; Waste; Respect for Nature; Sustainability; Critical Knowledge; Knowledge Retention; LFE; Learning from Experience
