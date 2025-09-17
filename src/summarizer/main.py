@@ -7,8 +7,10 @@ from dotenv import load_dotenv
 import pdfplumber
 import gradio as gr
 import tiktoken
+from tools.render_markdown import render_markdown_html
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
+
 load_dotenv(override=True)
 
 def extract_pdf(pdf_path, output_file="extracted_text.txt"):
@@ -32,8 +34,8 @@ def run(base_name: str):
     """
     Run the crew.
     """
-    BASE_DIR = Path(__file__).resolve().parent.parent  # adjust to your project root
-    file_path = BASE_DIR /"summarizer"/ "inputs" / f"{base_name}.pdf"
+    BASE_DIR = Path(__file__).resolve().parent.parent.parent  
+    file_path = BASE_DIR / "src" /"summarizer"/ "inputs" / f"{base_name}.pdf"
     raw_text = extract_pdf(str(file_path), "extracted_text.txt")
     
     print("Estimated Token Count:", count_tokens(raw_text))
@@ -46,6 +48,12 @@ def run(base_name: str):
     result = crew_instance.crew().kickoff(inputs=inputs)
 
     print("Research completed!!")
+
+    md_file_path = BASE_DIR / "research_findings.txt"
+
+    html = render_markdown_html(md_file_path)
+    Path("result.html").write_text(html, encoding="utf-8")
+
     return result
 
 

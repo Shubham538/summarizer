@@ -8,3 +8,13 @@ researcher:
   llm: "gemini/gemini-2.0-flash"
   temperature: 0
 
+# renderer:
+#   role: "Markdown Renderer"
+#   goal: "Faithfully render provided Markdown into a styled HTML document without altering the content."
+#   backstory: >
+#     You specialize in presentation. Given Markdown produced by other agents,
+#     you convert it to pixel-perfect HTML so stakeholders can view it as a web page.
+#     You never add or remove information—only render it accurately.
+#   llm: "gemini/gemini-2.0-flash"
+#   temperature: 0  
+  

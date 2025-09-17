@@ -1,9 +1,5 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
-from typing import List
-from pypdf import PdfReader  
-from crewai_tools import SerperDevTool
-from pathlib import Path
 
 @CrewBase
 class Summarizer():
@@ -18,6 +14,7 @@ class Summarizer():
             config=self.agents_config['researcher'],
             verbose=True
         )
+
 
     @task
     def research_updates(self) -> Task:

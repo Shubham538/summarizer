@@ -1,10 +1,13 @@
 research_updates:
   description: >
     Conduct thorough research on {{raw_text}}. Consider Focus on:
-    1. Get information from General background, Executive Summary of the candidate 
-    2. Assess the profile competency and tacit knowledge
-    3. Extract the replicable content, potential value of the learning
-    4. Extract Author(s) Details, Report Number, and Keywords
+    1. Extract Report Title, Report Number, Author(s) Name
+    2. Get information from General background, Executive Summary of the candidate 
+    3. Assess the profile competency and tacit knowledge
+    4. Assess the Risks and Challenges for the Future 
+    5. Extract the Replicable content and potential values - lessons learned, best practices, opportunity for improvement
+    6. Provide Recommendations
+    7. Extract Keywords
     Make sure to organize your findings in a structured format with clear sections and accurate information.
     
 
@@ -12,5 +15,26 @@ research_updates:
     A comprehensive research document with well-organized sections covering the tangible impact and value that the lesson learned or best practice deliveries of {{raw_text}}. Include specific facts, figures, and examples where relevant. Remove the table of contents. The summarized content should not exceed 500 words.
   
   agent: researcher
-  # context: [clean_content]
   output_file: "research_findings.txt"
+
+# render_markdown:
+#   description: >
+#     Use the **render_markdown** tool to convert the **provided context** into a self-contained HTML file with minimal, readable styling.
+#     DO NOT change the content or invent text. Preserve:
+#       - Headings, paragraphs, links
+#       - Lists (ordered/unordered), blockquotes
+#       - Code fences with syntax highlighting
+#       - Tables
+#       - Images (embed src as-is; do not fetch)
+#       - Horizontal rules
+#     If the Markdown is malformed, render as best as possible.
+
+
+#   expected_output: >
+#     A single, valid HTML document that faithfully renders the given Markdown with
+#     basic typography (fonts, spacing), code styling, and table formatting.
+#     No additional commentary outside the HTML.
+
+#   agent: renderer
+#   context: [research_updates]   
+#   output_file: "result.html"
