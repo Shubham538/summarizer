@@ -34,3 +34,10 @@ class Summarizer():
             process=Process.sequential,
             verbose=True,
         )
+
+    def kickoff(self, inputs):
+        """
+        Run the crew with the provided inputs.
+        This method ensures inputs are properly passed to the crew.
+        """
+        return self.crew().kickoff(inputs=inputs)

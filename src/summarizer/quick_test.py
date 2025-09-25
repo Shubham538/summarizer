@@ -1,9 +1,14 @@
-from tools.render_markdown import render_markdown_html
 from pathlib import Path
-
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
-file_path = BASE_DIR / "research_findings.txt"
+from tools.utils import extract_pdf, count_tokens, recursive_chunking
 
 
-html = render_markdown_html(file_path)
-Path("result.html").write_text(html, encoding="utf-8")
+BASE_DIR = Path(__file__).resolve().parent.parent.parent  
+file_path = BASE_DIR / "src" /"summarizer"/ "inputs" / "SRN-010382.pdf"
+
+raw_text = extract_pdf(str(file_path), "extracted_text.txt")
+chunks = recursive_chunking(raw_text)
+print(chunks)
+
+print( "token count =", count_tokens(chunks))
+
+

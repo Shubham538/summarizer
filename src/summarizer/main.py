@@ -1,34 +1,16 @@
-#!/usr/bin/env python
-import sys
 from pathlib import Path
 import warnings
 from summarizer.crew import Summarizer
 from dotenv import load_dotenv
-import pdfplumber
-import gradio as gr
-import tiktoken
 from tools.render_markdown import render_markdown_html
+from tools.utils import extract_pdf, recursive_chunking
+from tools.token_counter import estimate_crew_run_tokens
+import yaml
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 load_dotenv(override=True)
 
-def extract_pdf(pdf_path, output_file="extracted_text.txt"):
-    text = []
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            text.append(page.extract_text())
-    final_text = "\n".join(filter(None, text))
-    Path(output_file).write_text(final_text, encoding="utf-8")
-    return final_text
-
-def count_tokens(text: str, model: str = "gpt-4o-mini") -> int:
-    """
-    Estimate number of tokens in the given text for a specific model.
-    Default: gpt-4o-mini.
-    """
-    enc = tiktoken.encoding_for_model(model)
-    return len(enc.encode(text))
 
 def run(base_name: str):
     """
@@ -36,14 +18,37 @@ def run(base_name: str):
     """
     BASE_DIR = Path(__file__).resolve().parent.parent.parent  
     file_path = BASE_DIR / "src" /"summarizer"/ "inputs" / f"{base_name}.pdf"
+    
     raw_text = extract_pdf(str(file_path), "extracted_text.txt")
-    
-    print("Estimated Token Count:", count_tokens(raw_text))
 
-    inputs = {
-        'raw_text' : raw_text
-    }
+    chunks = recursive_chunking(raw_text) #print(chunks) 
+          
+    # load tasks and agents configs
+    tasks_cfg = yaml.safe_load(Path(BASE_DIR/"src/summarizer/config/tasks.yaml").read_text())
+    agents_cfg = yaml.safe_load(Path(BASE_DIR/"src/summarizer/config/agents.yaml").read_text())
+
+    task_prompts = [v.get("description", "expected_output") for v in tasks_cfg.values() if isinstance(v, dict)]
+    agent_prompts = []
+    for v in agents_cfg.values():
+        if isinstance(v, dict):
+            agent_prompts.extend(
+                [v.get(f) for f in ("role", "goal", "backstory", "system", "instructions") if v.get(f)]
+            )
     
+    inputs = {'chunks': chunks}
+
+    # Gemini exact count (calls API)
+    est_gemini = estimate_crew_run_tokens(
+        inputs_chunks=chunks,
+        task_prompts=task_prompts,
+        agent_system_prompts=agent_prompts,
+        model="gemini-2.0-flash",
+        provider="gemini",
+    )
+    
+    print("[Estimator:Gemini] Breakdown:", est_gemini)
+    print("[Estimator:Gemini] Grand total tokens =", est_gemini["grand_total"])
+
     crew_instance = Summarizer()
     result = crew_instance.crew().kickoff(inputs=inputs)
 
@@ -55,5 +60,21 @@ def run(base_name: str):
     Path("result.html").write_text(html, encoding="utf-8")
 
     return result
+
+
+# def openai_est():
+#     """Use the following when using OpenAI"""
+
+#     # OpenAI estimate (tiktoken, offline)
+#     est_openai = estimate_crew_run_tokens(
+#         inputs_chunks=chunks,
+#         task_prompts=task_prompts,
+#         agent_system_prompts=agent_prompts,
+#         model="gpt-4o-mini",
+#         provider="openai",
+#     )
+
+#     print("[Estimator:OpenAI] Breakdown:", est_openai)
+#     print("[Estimator:OpenAI] Grand total tokens =", est_openai["grand_total"])
 
 

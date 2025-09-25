@@ -1,40 +1,26 @@
 research_updates:
   description: >
-    Conduct thorough research on {{raw_text}}. Consider Focus on:
-    1. Extract Report Title, Report Number, Author(s) Name
-    2. Get information from General background, Executive Summary of the candidate 
-    3. Assess the profile competency and tacit knowledge
-    4. Assess the Risks and Challenges for the Future 
-    5. Extract the Replicable content and potential values - lessons learned, best practices, opportunity for improvement
-    6. Provide Recommendations
-    7. Extract Keywords
+    Conduct thorough research on ALL the provided chunks as a SINGLE cohesive analysis.
+    You must consolidate information from all chunks into one comprehensive report.
+    
+    Consider & Focus on:
+    1. Extract Report Title, Report Number, Author(s) Name (consolidate if multiple)
+    2. Get information from General background, Executive Summary of the candidate (combine all relevant sections)
+    3. Assess the profile competency and tacit knowledge (aggregate findings)
+    4. Assess the Risks and Challenges for the Future (synthesize all mentioned risks)
+    5. Extract the Replicable content and potential values - lessons learned, best practices, opportunity for improvement (compile from all chunks)
+    6. Provide Recommendations (consolidated recommendations)
+    7. Extract Keywords (comprehensive list from all chunks)
+    
+    IMPORTANT: Create ONE unified document that synthesizes ALL chunks, not separate analyses.
     Make sure to organize your findings in a structured format with clear sections and accurate information.
     
+    Chunks to analyze:
+    {chunks}
 
   expected_output: >
-    A comprehensive research document with well-organized sections covering the tangible impact and value that the lesson learned or best practice deliveries of {{raw_text}}. Include specific facts, figures, and examples where relevant. Remove the table of contents. The summarized content should not exceed 500 words.
+    A SINGLE comprehensive research document with well-organized sections covering the tangible impact and value that the lesson learned or best practice deliveries of the provided chunks. Include specific facts, figures, and examples where relevant. Remove the table of contents. The summarized content should not exceed 500 words total for all chunks combined.
   
   agent: researcher
   output_file: "research_findings.txt"
 
-# render_markdown:
-#   description: >
-#     Use the **render_markdown** tool to convert the **provided context** into a self-contained HTML file with minimal, readable styling.
-#     DO NOT change the content or invent text. Preserve:
-#       - Headings, paragraphs, links
-#       - Lists (ordered/unordered), blockquotes
-#       - Code fences with syntax highlighting
-#       - Tables
-#       - Images (embed src as-is; do not fetch)
-#       - Horizontal rules
-#     If the Markdown is malformed, render as best as possible.
-
-
-#   expected_output: >
-#     A single, valid HTML document that faithfully renders the given Markdown with
-#     basic typography (fonts, spacing), code styling, and table formatting.
-#     No additional commentary outside the HTML.
-
-#   agent: renderer
-#   context: [research_updates]   
-#   output_file: "result.html"

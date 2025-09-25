@@ -1,41 +1,57 @@
-**Retention of Critical Knowledge - Beth Collier – Environmental Specialist: Air, Water and Waste - GSUSI-PTS-S**
+# Retention of Critical Knowledge: Beth Collier – Environmental Specialist
 
-*Report Number:* SRN-010382
-*Author(s):* Kosiara, Mark; Collier, Beth B
+**Report Number:** SRN-010382
+**Author(s):** Mark Kosiara, Beth B Collier
 
-**General Background:**
+## General Background and Executive Summary
 
-This ROCK exercise was conducted for Beth Collier, who was retiring after 21 years of service at Shell. The aim was to capture Ms. Collier’s extensive experience managing air, water, and waste at the Shell Technology Center Houston (STCH) to supplement handover activities to her team lead, Rob Smith, and her replacement, Maurice Pinder. The ROCK aimed to inventory regulatory jurisdictions, reporting requirements, historical environmental information, key lessons learned, best practices, future risks/challenges, and recommendations.
+This report summarizes the Retention of Critical Knowledge (ROCK) exercise conducted for Beth Collier, an Environmental Specialist retiring from Shell after 21 years of service. Ms. Collier's expertise lies in managing air, water, and waste environmental categories at the Shell Technology Center Houston (STCH). The ROCK exercise aimed to capture her extensive knowledge of regulatory jurisdictions, reporting requirements, historical environmental information, key lessons learned, best practices, risks/challenges, and recommendations for improvement. The report identifies several best practices, lessons learned, risks, and opportunities for improvement.
 
-**Profile Competency and Tacit Knowledge:**
+## Profile Competency and Tacit Knowledge
 
-Ms. Collier's core competency lies in environmental management, specifically air, water, and waste within HSSE. Her responsibilities included record keeping, reporting to entities like TCEQ and Shell Group, ensuring compliance with permits and regulations, and providing environmental support for site operations and projects.
+Ms. Collier's competency includes extensive knowledge of:
 
-**Risks and Challenges for the Future:**
+*   Regulatory frameworks for air, water, and waste management (TCEQ, EPA).
+*   Permitting processes for new sources (Title 5, PBRs).
+*   Reporting requirements (Deviation Report, Air Emissions Inventory, Texas Tier 2, etc.).
+*   Waste management processes (hazardous and non-hazardous waste).
+*   Stakeholder management (internal Shell SMEs, external regulatory contacts).
+*   Sustainability initiatives and their implementation challenges.
 
-1.  **Relocation of STCH:** Moving STCH to the Woodcreek site poses challenges, including the need to analyze and acquire new permits, potentially impacting grandfathered permits, and managing environmental compliance during the transition.
-2.  **Changing Activities at STCH:** Uncertainty around STCH’s future (relocation, downsizing, or expansion with third parties) could complicate environmental permits and compliance.
-3.  **Minor Permit Violations:** Numerous small, overlooked permit violations can attract unwanted regulatory attention and lead to inspections.
-4.  **Sustainability Goals:** Implementing Shell Group’s sustainability goals at a research facility like STCH is difficult due to misalignment with site opportunities, limited influence of environmental staff, and budget constraints.
+Her tacit knowledge includes understanding the nuances of site-specific environmental issues (MB Tank Farm contamination, holding ponds), the importance of personal relationships with stakeholders, and effective communication strategies for environmental support.
 
-**Replicable Content and Potential Values:**
+## Risks and Challenges for the Future
 
-*   **Best Practices:**
-    *   In-person environmental training for on-site staff improves storm water discharge compliance.
-    *   Centralized tracking tool enhances environmental compliance requirement monitoring.
-    *   Effective communication and interpersonal skills are critical for environmental support staff.
-*   **Lessons Learned:**
-    *   Site environmental experts should inspect site conditions after environmental incidents.
-    *   Holding shipping parties accountable for improper packaging significantly reduces sample spills.
-*   **Opportunities for Improvement:**
-    *   Develop and implement a sandblasting procedure for the new sandblasting area to protect neighboring properties.
-    *   Maintaining strong personal relationships with stakeholders to stay ahead of environmental changes.
+The following risks and challenges were identified:
 
-**Recommendations:**
+*   Potential complications in environmental permits and compliance if STCH moves to the Woodcreek site or undergoes significant changes in operations.
+*   The risk of increased regulatory scrutiny due to numerous small environmental permit violations.
+*   Difficulties in implementing Shell Group sustainability goals at a research facility like STCH due to misaligned opportunities and limited influence of environmental staff.
+*   Maintaining the holding ponds and managing litter to prevent environmental issues.
 
-1.  Staying ahead of Environmental changes at a Shell laboratory have been dependent upon having strong personal relationships with key site stakeholders based upon mutual trust.
-2.  A sandblasting procedure for the new sandblasting area at the Shell Technology Center Houston should be developed and implemented to protect neighbouring properties in certain wind conditions.
+## Replicable Content and Potential Values
 
-**Keywords:**
+### Best Practices
 
-Environmental Compliance; Site Environmental Support; Shell Technology Center Houston; STCH; Laboratory; Air Compliance; Water Compliance; Waste Compliance; Air Emission Management; Water Discharge Management; Waste Management; Air; Water; Waste; Respect for Nature; Sustainability; Critical Knowledge; Knowledge Retention; LFE; Learning from Experience
+*   **Effective Environmental Training:** In-person training for staff and contractors is more effective in ensuring compliance with storm water discharge limits.
+*   **Centralized Compliance Tracking:** Managing all environmental compliance requirements in a single electronic repository (e.g., Excel spreadsheet) improves oversight and reduces non-compliance risks.
+*   **Effective Communication:** Open and honest communication, coupled with strong interpersonal skills, is critical for environmental support staff, especially when dealing with regulators and other stakeholders.
+
+### Lessons Learned
+
+*   **Post-Incident Site Inspections:** Site environmental experts should inspect site conditions after an environmental incident to understand the causes and prevent recurrence.
+*   **Accountability for Sample Spills:** Holding shipping parties accountable for improper packaging significantly reduces sample spill volumes.
+
+### Opportunities for Improvement
+
+*   Develop and implement a sandblasting procedure to protect neighboring properties from potential impacts.
+*   Revisit and potentially incorporate the Wildlife at Work program to enhance Respect for Nature activities.
+
+## Recommendations
+
+*   Maintain strong personal relationships with key site stakeholders to stay informed of changes and ensure seamless handover of activities.
+*   Develop a sandblasting procedure for the new sandblasting area to protect neighboring properties in certain wind conditions.
+
+## Keywords
+
+Environmental Compliance; Site Environmental Support; Shell Technology Center Houston; STCH; Laboratory; Air Compliance; Water Compliance; Waste Compliance; Air Emission Management; Water Discharge Management; Waste Management; Air; Water; Waste; Respect for Nature; Sustainability; Critical Knowledge; Knowledge Retention; LFE; Learning from Experience; Title 5 permit; Permits by Rule (PBR); Texas Commission on Environmental Quality (TCEQ); Harris-Galveston Subsidence District (HGSD); Storm Water Pollution Prevention Plan (SWPPP); Spill Prevention Control & Countermeasures (SPCC) Plan; Publicly Owned Treatment Works (POTW).
